@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=why-not-available&layout=donut)](https://github.com/why-not-available/github-readme-stats)
 
-Language
+<p>Language</p>
 <img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=java&logoColor=ffffff"/>
 
-Framework
+<p>Framework</p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
 
-Tool
+<p>Tool</p>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/IntelliJ-003DFF?style=for-the-badge&logo=intellijidea&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor={로고 색깔}"/>
 
-Database
+<p>Database</p>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
 
