@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Language : 
+<img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=java&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
+
+Framework : 
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor={로고 색깔}"/>
+<img src="https://img.shields.io/badge/IntelliJ-003DFF?style=for-the-badge&logo=intellijidea&logoColor={로고 색깔}"/>
+<img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor={로고 색깔}"/>
+
+Database : 
+<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor={로고 색깔}"/>
+<img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+
+GitHub
+
+<br>
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhy-not-available%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
+</a>
