@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=why-not-available&layout=donut)](https://github.com/why-not-available/github-readme-stats)
 
+<div>
 <p>Language</p>
 <img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=java&logoColor=ffffff"/>
+</div>
 
+<div>
 <p>Framework</p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
+</div>
 
 <div>
 <p>Tool</p>
