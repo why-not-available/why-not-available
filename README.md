@@ -23,13 +23,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
 
 <p>Tool</p>
+<div>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/IntelliJ-003DFF?style=for-the-badge&logo=intellijidea&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor={로고 색깔}"/>
+</div>
 
 <p>Database</p>
+<div>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+</div>
 
 GitHub
 https://github.com/why-not-available/why-not-available.git
