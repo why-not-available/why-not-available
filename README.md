@@ -16,22 +16,23 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=why-not-available&layout=donut)](https://github.com/why-not-available/github-readme-stats)
 
-Language : 
+Language
 <img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=java&logoColor=ffffff"/>
 
-Framework : 
+Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
 
-Tool :
+Tool
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/IntelliJ-003DFF?style=for-the-badge&logo=intellijidea&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor={로고 색깔}"/>
 
-Database : 
+Database
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/mySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
 
 GitHub
 https://github.com/why-not-available/why-not-available.git
 <br>
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhy-not-available%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/>
