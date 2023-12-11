@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 Language : 
 <img src="https://img.shields.io/badge/JAVA-F37C20?style=for-the-badge&logo=java&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
 
 Framework : 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff"/>
+
+Tool :
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/IntelliJ-003DFF?style=for-the-badge&logo=intellijidea&logoColor={로고 색깔}"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor={로고 색깔}"/>
